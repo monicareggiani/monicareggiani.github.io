@@ -7,7 +7,7 @@ description: Monica Reggiani is Assistant Professor in Computer Engineering at U
 I'm a Ricercatore Universitario at the [Department of Management and Engineering](http://www.gest.unipd.it/) of the [University of Padua](http://www.unipd.it), Italy. It is a research-oriented permanent position at the assistant professor level.
 
 
-<div class="span2">
+<div class="span5">
   <a href="../assets/pics/monica2017.JPG">
   <img src="../assets/pics/monica2017.JPG"
       title="Monica Reggiani" alt="Monica Reggiani"/></a>
