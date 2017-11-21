@@ -1,3 +1,8 @@
+---
+layout: page
+title: publications
+description: Monica Reggiani's contacts
+---
 
 <div class="container">
 <h4><a name="contact"></a>contact</h4>
