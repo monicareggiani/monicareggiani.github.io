@@ -16,16 +16,23 @@ description: Monica Reggiani's publications
 
 ### <a name="articles"></a>Journal Articles
 
-Pizzolato Stefano, Tagliapietra Luca, Cognolato Matteo, **Reggiani Monica**, and Muller, Henning and Atzori, Manfredo (2017). [Comparison of six electromyography acquisition setups on hand movement classification tasks](https://doi.org/10.1371/journal.pone.0186132). PLOS ONE 12(10):e0186132  
+#### 2017
+
+Pizzolato Stefano, Tagliapietra Luca, Cognolato Matteo, **Reggiani Monica**, and Muller, Henning and Atzori, Manfredo (2017).
+[Comparison of six electromyography acquisition setups on hand movement classification tasks](https://doi.org/10.1371/journal.pone.0186132). PLOS ONE 12(10):e0186132
 DOI 10.1371/journal.pone.0186132
+[![pdf](icons16/pdf-icon.png)]
 [![data](icons16/data-icon.png)](https://doi.org/10.5281/zenodo.1000116)
 [![data](icons16/data-icon.png)](https://doi.org/10.5281/zenodo.1000138)
 
-Pizzolato Claudio, Reggiani Monica, Saxby David J., Ceseracciu Elena, Modenese Luca, Lloyd David G. (2017), [Biofeedback for Gait Retraining Based on Real-Time Estimation of Tibiofemoral Joint Contact Forces](https://doi.org/10.1109/TNSRE.2017.2683488). IEEE Transactions on Neural Systems and Rehabilitation Engineering, 25(9) pp. 1612-1621
+Pizzolato Claudio, **Reggiani Monica**, Saxby David J., Ceseracciu Elena, Modenese Luca, Lloyd David G. (2017). 
+[Biofeedback for Gait Retraining Based on Real-Time Estimation of Tibiofemoral Joint Contact Forces](https://doi.org/10.1109/TNSRE.2017.2683488). IEEE Transactions on Neural Systems and Rehabilitation Engineering, 25(9) pp. 1612-1621
 DOI 10.1109/TNSRE.2017.2683488
-[IEEE](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7903736&isnumber=8026585)
+[![pdf](icons16/pdf-icon.png)](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7903736&isnumber=8026585)
 
-...
+
+
+#### 2016
 
 ### <a name="book"></a>Edited Book
 Carpin Stefano, Noda Itsuki, Pagello Enrico, **Reggiani Monica**, von Stryk Oskar (2008)
