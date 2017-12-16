@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: Research Projects
 description: Monica Reggiani's Research Projects
 ---
 
