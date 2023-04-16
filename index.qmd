@@ -1,0 +1,44 @@
+---
+title: ""
+about: 
+  template: trestles
+  image: files/profile.jpg
+  links: 
+    - icon: globe
+      text: Web
+      href: https://monicareggiani.github.io
+#    - icon: twitter
+#      text: twitter
+#      href: https://twitter.com
+    - icon: github
+      text: Github
+      href: https://github.com/monicareggiani
+    - icon: linkein
+      text: LinkedIn
+      href: https://www.linkedin.com/in/monica-reggiani-16b4a4166/
+    - icon: google-scholar
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=Ui4ulbcAAAAJ&hl=en&oi=ao
+    - icon: orcid
+      text: ORCID
+      href: https://orcid.org/0000-0002-5029-1892
+comments: false
+---
+
+I am an Associate Professor in the [Department of Management and Engineering](http://www.gest.unipd.it/) of the [University of Padua](http://www.unipd.it), Italy. 
+
+<!-- Before doing so, I was a PhD student at the [University of Parma](http://www.unipr.it), a visiting scholar at the [Los Alamos National Laboratory](http://www.lanl.gov), a research associate at the [University of Parma](http://www.unipr.it) and at the [University of Verona](http://www.univr.it), and a visiting professor at the [University of Applied Sciences Bonn-Rhein-Sieg](https://www.h-brs.de/). After, I was a visiting researcher at the [School of Sport Science, Exercise and Health](http://www.sseh.uwa.edu.au/) of [The University of Western Australia](http://www.uwa.edu.au/) (Summer 2010), at the [Department of Neurorehabilitation Engineering](http://www.neurorehabilitation-systems.de/) of the [Universitätsmedizin Göttingen Georg-August-Universität](http://www.med.uni-goettingen.de) (Summer 2012), and at the Centre for Musculoskeletal Research of the [Griffith University](https://www.griffith.edu.au) (Summer 2014).
+I'll always procrastinate updating my web site. Please see my curriculum vitae for more biographical information and my [publications](pages/pubs.md) for more research information. -->
+
+The focus of my research is on autonomous systems. I have a broad interest in several aspects of human robot collaboration, algorithms, and software architectures for robotics applications. 
+
+<!-- In the latest years, I started working on neuromuscular human-machine interfaces, an interesting topics which has quickly become my core research interest. Latest bit of information: I do love to code in my spare time.
+-->
+
+
+<!-- If you want to get in touch with me, here for smail, email, gtalk, skype, ... [contacts](pages/contacts.md).
+-->
+ 
+
+
+ 

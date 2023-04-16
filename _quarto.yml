@@ -1,0 +1,33 @@
+project:
+  type: website
+
+description-meta: "Monica Reggiani's personal website."
+
+website:
+  title: "Monica Reggiani"
+  site-url: "https://monicareggiani.github.io/"
+  repo-url: "https://github.com/monicareggiani/monicareggiani.github.io"
+  description: "Website of Monica Reggiani"
+#  favicon: /files/icon.png
+  cookie-consent: true
+  search: true
+  navbar:
+#.  background: "99ccff"
+#   logo: /files/logo.png
+    left:
+      - href: index.qmd
+        text: Home
+#      - href: about.qmd
+#        text: About
+#      - href: contact.qmd
+#        text: Contact
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
