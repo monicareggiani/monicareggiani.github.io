@@ -1,0 +1,43 @@
+---
+listing:
+  contents: .
+  template: pubs.ejs
+  sort: "date desc"
+  categories: false
+  sort-ui: [date, title, author]
+  filter-ui: [date, title, author, details]
+  date-format: "YYYY"
+  page-size: 50
+sidebar: false
+page-layout: full
+title-block-banner: false
+---
+
+# Publications
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+<ul class="fa-ul">
+  <li><a href="https://scholar.google.com/citations?user=Ui4ulbcAAAAJ"><i class="fa-li ai ai-google-scholar" style="padding-top:4px;"></i>Google Scholar</a></li>
+  <li><a href="https://www.researchgate.net/profile/Monica-Reggiani"><i class="fa-li ai ai-researchgate" style="padding-top:4px;"></i>Research Gate</a></li>
+</ul>
+
+:::
+
+::: {.column width="50%"}
+
+<ul class="fa-ul">
+  <li><a href="https://orcid.org/0000-0002-5029-1892"><i class="fa-li ai ai-orcid" style="padding-top:4px;"></i>ORCID</a></li>
+  <li><a href="https://www.scopus.com/authid/detail.uri?authorId=56246028800"><i class="fa-li ai ai-scopus" style="padding-top:4px;"></i>Scopus</a></li>
+</ul>
+
+:::
+
+
+::::
+
+## Journals
+
+This site is under heavy reconstruction, migrating to [Quarto](http://quarto.org). Please refer to the previous links for the whole list of publications

@@ -1,5 +1,8 @@
 project:
   type: website
+  render:
+  - "*.qmd"
+  - "*.md"
 
 description-meta: "Monica Reggiani's personal website."
 
@@ -17,10 +20,20 @@ website:
     right:
 #      - href: index.qmd
 #        text: Home
-      - href: publications.qmd
+      - href: publications/index.qmd
         text: publications
       - href: colophon.qmd
         text: colophon
+#      - href: blog/index.qmd
+#        text: Blog
+#      - href: software/index.qmd
+#        text: Software
+#      - href: talks/index.qmd
+#        text: Talks
+#      - href: teaching/index.qmd
+#        text: Teaching
+#      - href: about/index.qmd
+#        text: About
 #      - href: contact.qmd
 #        text: Contact
   page-footer:
@@ -34,6 +47,7 @@ website:
       [Source at {{< fa brands github >}} GitHub](https://github.com/monicareggiani/monicareggiani.github.io)
 
 
+date-format: "D MMMM YYYY"
 
 execute:
   freeze: auto
@@ -43,9 +57,11 @@ execute:
 
 format:
   html:
-    theme: 
-      light: sandstone
+    theme: flatly
     css: customstyle.css
     toc: true
+    html-math-method: katex
+    include-in-header:
+      file: header.html
 
 editor: visual

@@ -4,20 +4,18 @@ comments: false
 ---
 
 ## About this Site
+
 This site is intended to serve as my personal home on the web.
 
 ## Technology
 
-I use [Quarto](https://quarto.org/) to design the site. Quarto is an open-source scientific and technical publishing system and it is free, which is perfect for my needs. 
-Inspiration and code snippets taken from these folks: [Andreas Handel](https://www.andreashandel.com/posts/2022-10-01-hugo-to-quarto-migration/), [Samantha Csik](https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/), [Lucy D'Agostino McGowan](https://livefreeordichotomize.com/posts/2022-09-19-migrating-from-hugo-to-quarto/)
+I use [Quarto](https://quarto.org/) to design the site. Quarto is an open-source scientific and technical publishing system and it is free, which is perfect for my needs. Inspiration and code snippets taken from these folks:
+[Rob J Hyndman](https://robjhyndman.com/hyndsight/quarto.html) [Andreas Handel](https://www.andreashandel.com/posts/2022-10-01-hugo-to-quarto-migration/), [Samantha Csik](https://samanthacsik.github.io/talks_workshops/2022-08-05-creating-your-personal-website-using-quarto/), [Lucy D'Agostino McGowan](https://livefreeordichotomize.com/posts/2022-09-19-migrating-from-hugo-to-quarto/)
 
-The code for this website is on [GitHub](https://github.com/monicareggiani/monicareggiani.github.io) and deployed to [GitHub Pages](https://monicareggiani.github.io/). If there is an problem with this website or improvement you’d like to suggest, please open an issue on GitHub or reach out directly.
+The code for this website is on [GitHub](https://github.com/monicareggiani/monicareggiani.github.io) and deployed to [GitHub Pages](https://monicareggiani.github.io/). If there is an problem with this website or improvement you'd like to suggest, please open an issue on GitHub or reach out directly.
 
-<br>
-<br>
-<br>
+<br> <br> <br>
 
----
+------------------------------------------------------------------------
+
 [Colophon](https://en.wikipedia.org/wiki/Colophon_(publishing)) is a publishing term typically used to describe the publishing process but has been expanded to websites. This page was inspired by [Binyamin Aron Green](https://binyam.in/colophon/) and [Eric Bailey](https://ericwbailey.design/colophon/).
- 
-
