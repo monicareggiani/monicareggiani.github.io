@@ -14,11 +14,11 @@ website:
   navbar:
 #.  background: "99ccff"
 #   logo: /files/logo.png
-    left:
-      - href: index.qmd
-        text: Home
-#      - href: about.qmd
-#        text: About
+    right:
+#      - href: index.qmd
+#        text: Home
+      - href: colophon.qmd
+        text: Colophon
 #      - href: contact.qmd
 #        text: Contact
   page-footer:
@@ -41,7 +41,9 @@ execute:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: flatly
+      dark: slate
     css: customstyle.css
     toc: true
 
