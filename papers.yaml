@@ -1,0 +1,289 @@
+unipd-bpe:
+  title: Synchronized RGB-D and Inertial Data for Multimodal Body Pose Estimation and Tracking
+  authors:
+    - Mattia Guidolin
+    - Emanuele Menegatti
+    - me
+  year: 2022
+  preprint:
+  published_url: https://www.doi.org/10.3390/data7060079
+  venue: Data
+  github: 
+
+wem:
+  title: "WEM-Platform: A real-time platform for full-body ergonomic assessment and feedback in manufacturing and logistics systems"
+  authors:
+    - Daria Battini
+    - Nicola Berti
+    - Serena Finco
+    - Mattia Guidolin
+    - me
+    - Luca Tagliapietra
+  year: 2022
+  preprint:
+  published_url: https://www.doi.org/10.1016/j.cie.2021.107881
+  venue: Computers and Industrial Engineering
+  github:
+
+
+bops:
+  title: "BOPS: a Matlab toolbox to batch musculoskeletal data processing for OpenSim"
+  authors:
+    - B.L.S. Bedo
+    - Alice Mantoan
+    - D.S. Catelli
+    - W. Cruaud
+    - me
+    - M. Lamontagne
+  year: 2021
+  preprint:
+  published_url: https://www.doi.org/10.1080/10255842.2020.1867978
+  venue: Computer Methods in Biomechanics and Biomedical Engineering}
+  github:
+
+
+inertial_validation:
+  title: Validation of a model-based inverse kinematics approach based on wearable inertial sensors
+  authors:
+    - Luca Tagliapietra
+    - Luca Modenese
+    - Elena Ceseracciu
+    - Claudia Mazzà
+    - me
+  year: 2018
+  preprint:
+  published_url: https://www.doi.org/10.1080/10255842.2018.1522532
+  venue: Computer Methods in Biomechanics and Biomedical Engineering
+  github:
+
+
+emg_comparison:
+  title:  Comparison of six electromyography acquisition setups on hand movement classification tasks
+  authors:
+    - Stefano Pizzolato 
+    - Luca Tagliapietra
+    - M. Cognolato
+    - me
+    - H. Müller
+    - M. Atzori
+  year: 2017
+  preprint:
+  published_url: https://www.doi.org/10.1371/journal.pone.0186132
+  venue: PLoS ONE
+  github:
+
+
+biofeedback:
+  title: Biofeedback for Gait Retraining Based on Real-Time Estimation of Tibiofemoral Joint Contact Forces
+  authors:
+    - Claudio Pizzolato
+    - me 
+    - D.J. Saxby
+    - Elena Ceseracciu
+    - Luca Modenese
+    - David G. Lloyd
+  year: 2017
+  preprint:
+  published_url: https://www.doi.org/10.1109/TNSRE.2017.2683488
+  venue:  IEEE Transactions on Neural Systems and Rehabilitation Engineering
+  github:
+
+
+realtime:
+  title: Real-time inverse kinematics and inverse dynamics for lower limb applications using OpenSim
+  authors:
+    - Claudio Pizzolato
+    - me
+    - Luca Modenese
+    - David G. Lloyd
+  year: 2017
+  preprint:
+  published_url: https://www.doi.org/10.1080/10255842.2016.1240789
+  venue: Computer Methods in Biomechanics and Biomedical Engineering
+  github: https://github.com/RealTimeBiomechanics/rtosim
+
+
+muscolotendon_parameters:
+  title: Estimation of musculotendon parameters for scaled and subject specific musculoskeletal models using an optimization technique
+  authors:
+    - Luca Modenese
+    - Elena Ceseracciu
+    - me 
+    - David G. Lloyd
+  year: 2016
+  preprint:
+  published_url: https://www.doi.org/10.1016/j.jbiomech.2015.11.006
+  venue: Journal of Biomechanics
+  github:
+
+motonms:
+  title: "MOtoNMS: A MATLAB toolbox to process motion data for neuromusculoskeletal modeling and simulation"
+  authors:
+    - Alice Mantoan
+    - Claudio Pizzolato
+    - Massimo Sartori
+    - Zimi Sawacha
+    - Claudio Cobelli
+    - me
+  year: 2015
+  preprint:
+  published_url: https://www.doi.org/10.1186/s13029-015-0044-4
+  venue: Source Code for Biology and Medicine
+  github:
+
+ceinms:
+  title: "CEINMS: A toolbox to investigate the influence of different neural control solutions on the prediction of muscle excitation and joint moments during dynamic motor tasks"
+  authors:
+    - Claudio Pizzolato
+    - David G. Lloyd
+    - Massimo Sartori
+    - Elena Ceseracciu
+    - Thor F. Besier
+    - B.J. Fregly
+    - me
+  year: 2015
+  preprint:
+  published_url: https://www.doi.org/10.1016/j.jbiomech.2015.09.021
+  venue: Journal of Biomechanics
+  github:
+
+stiffness:
+  title: Modeling and simulating the neuromuscular mechanisms regulating ankle and knee joint stiffness during human locomotion
+  authors:
+    - Massimo Sartori
+    - Marco Maculan
+    - Claudio Pizzolato
+    - me 
+    - Dario Farina
+  year: 2015
+  preprint:
+  published_url: https://www.doi.org/10.1152/jn.00989.2014
+  venue: Journal of Neurophysiology
+  github:
+
+
+multiple_degree:
+  title: EMG-Driven Forward-Dynamic Estimation of Muscle Force and Joint Moment about Multiple Degrees of Freedom in the Human Lower Extremity
+  authors:
+    - Massimo Sartori
+    - me 
+    - Dario Farina
+    - David G. Lloyd
+  year: 2012
+  preprint:
+  published_url: https://www.doi.org/10.1371/journal.pone.0052618
+  venue: PLoS ONE
+  github:
+
+
+human_knee:
+  title: Modeling the human knee for assistive technologies
+  authors:
+    - Massimo Sartori
+    - me
+    - Enrico Pagello
+    - David G. Lloyd
+  year: 2012
+  preprint: 
+  published_url: https://www.doi.org/10.1109/TBME.2012.2208746
+  venue: IEEE Transactions on Biomedical Engineering
+  github:
+
+
+nanofluids:
+  title: Application of Artificial Neural Network (ANN) for the prediction of thermal conductivity of oxide-water nanofluids
+  authors:
+    - Giovanni A. Longo
+    - Claudio Zilio
+    - Elena Ceseracciu
+    - me
+  year: 2012
+  preprint:
+  published_url: https://www.doi.org/10.1016/j.nanoen.2011.11.007
+  venue: Nano Energy
+  github:
+
+
+bsplines:
+  title: Estimation of musculotendon kinematics in large musculoskeletal models using multidimensional B-splines
+  authors:
+    - Massimo Sartori
+    - me
+    - A. J. van den Bogert
+    - David G. Lloyd
+  year: 2012
+  preprint:
+  published_url: https://www.doi.org/10.1016/j.jbiomech.2011.10.040
+  venue: Journal of Biomechanics
+  github:
+  
+
+paradigms:
+  title: Architectural paradigms for robotics applications
+  authors:
+    - Michele Amoretti
+    - me
+  year: 2010
+  preprint:
+  published_url: https://www.doi.org/10.1016/j.aei.2009.08.004
+  venue: Advanced Engineering Informatics
+  github:
+  
+
+
+experiments:
+  title: An insightful comparison between experiments in mobile robotics and in science
+  authors:
+    - Francesco Amigoni
+    - me
+    - Viola Schiaffonati
+  year: 2009
+  preprint:
+  published_url: https://www.doi.org/10.1007/s10514-009-9137-8
+  venue: Autonomous Robots
+  github:
+
+
+grid_service:
+  title: Designing Grid services for multimedia streaming in an e-learning environment
+  authors:
+    - Michele Amoretti
+    - Rosa Bertolazzi
+    - me
+    - Francesco Zanichelli
+    - Gianni Conte
+  year: 2006
+  preprint:
+  published_url: https://www.doi.org/10.1002/cpe.985
+  venue: "Concurrency and Computation: Practice and Experience"
+  github:
+
+virtual_fixture:
+  title: Evaluation of virtual fixtures for a robot programming by demonstration interface
+  authors:
+    - Jacopo Aleotti
+    - Stefano Caselli
+    - me
+  year: 2005
+  preprint:
+  published_url: https://www.doi.org/10.1109/TSMCA.2005.850604
+  venue: IEEE Transactions on Systems, Man, and Cybernetics Part A:Systems and Humans.
+  github:
+
+
+corba:
+  title: Telerobotic systems design based on real-time CORBA
+  authors:
+    - Michele Amoretti
+    - Stefano Bottazzi
+    - Stefano Caselli
+    - me
+  year: 2005
+  preprint:
+  published_url: https://www.doi.org/10.1002/rob.20058
+  venue: Journal of Robotic Systems.
+  github:
+
+
+  
+ 

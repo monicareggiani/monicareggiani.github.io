@@ -17,8 +17,10 @@ website:
     right:
 #      - href: index.qmd
 #        text: Home
+      - href: publications.qmd
+        text: publications
       - href: colophon.qmd
-        text: Colophon
+        text: colophon
 #      - href: contact.qmd
 #        text: Contact
   page-footer:
@@ -42,8 +44,7 @@ execute:
 format:
   html:
     theme: 
-      light: flatly
-      dark: slate
+      light: sandstone
     css: customstyle.css
     toc: true
 
