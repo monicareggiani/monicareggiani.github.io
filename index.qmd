@@ -3,7 +3,7 @@ title: ""
 about: 
   template: trestles
   image: files/profile.jpg
-  links: 
+  links:
     - icon: globe
       text: Web
       href: https://monicareggiani.github.io
@@ -24,7 +24,7 @@ about:
       href: https://orcid.org/0000-0002-5029-1892
 comments: false
 ---
-
+ 
 I am an Associate Professor in the [Department of Management and Engineering](http://www.gest.unipd.it/) of the [University of Padua](http://www.unipd.it), Italy. 
 
 <!-- Before doing so, I was a PhD student at the [University of Parma](http://www.unipr.it), a visiting scholar at the [Los Alamos National Laboratory](http://www.lanl.gov), a research associate at the [University of Parma](http://www.unipr.it) and at the [University of Verona](http://www.univr.it), and a visiting professor at the [University of Applied Sciences Bonn-Rhein-Sieg](https://www.h-brs.de/). After, I was a visiting researcher at the [School of Sport Science, Exercise and Health](http://www.sseh.uwa.edu.au/) of [The University of Western Australia](http://www.uwa.edu.au/) (Summer 2010), at the [Department of Neurorehabilitation Engineering](http://www.neurorehabilitation-systems.de/) of the [Universitätsmedizin Göttingen Georg-August-Universität](http://www.med.uni-goettingen.de) (Summer 2012), and at the Centre for Musculoskeletal Research of the [Griffith University](https://www.griffith.edu.au) (Summer 2014).

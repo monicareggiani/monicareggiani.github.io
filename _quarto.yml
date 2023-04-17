@@ -21,13 +21,28 @@ website:
 #        text: About
 #      - href: contact.qmd
 #        text: Contact
+  page-footer:
+    left: |
+      {{< fa regular copyright >}} Monica Reggiani, 2023<br>
+      All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-sa >}} {{< fa brands creative-commons-nc >}} [(CC BY-NC-SA 4.0)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      Inspiration and code snippets taken from [these folks.](colophone.html)<br>
+      [Source at {{< fa brands github >}} GitHub](https://github.com/monicareggiani/monicareggiani.github.io)
+
+
+
+execute:
+  freeze: auto
+
+
 
 
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: customstyle.css
     toc: true
 
 editor: visual
-
