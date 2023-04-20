@@ -3,6 +3,7 @@ author: Bruno LS Bedo, Alice Mantoan, Danilo S Catelli, Willian Cruaud, Monica R
 date: 2021-9-7
 title: "BOPS: a Matlab toolbox to batch musculoskeletal data processing for OpenSim"
 details: <em>Computer Methods in Biomechanics and Biomedical Engineering</em>, 24(10), 1104-1114
+categories: Articles
 link: 
 github: https://github.com/RehabEngGroup/BOPS
 doi: 10.1080/10255842.2020.1867978

@@ -3,6 +3,7 @@ author: Daria Battini, Nicola Berti, Serena Finco, Mattia Guidolin, Monica Reggi
 date: 2022-2-1
 title: "WEM-Platform: A real-time platform for full-body ergonomic assessment and feedback in manufacturing and logistics systems"
 details: <em>Computers & Industrial Engineering</em>, 164, 107881
+categories: Articles
 link: 
 github: 
 doi: 10.1016/j.cie.2021.107881

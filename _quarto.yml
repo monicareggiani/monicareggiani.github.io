@@ -21,7 +21,9 @@ website:
 #      - href: index.qmd
 #        text: Home
       - href: publications/index.qmd
-        text: publications
+        text: publications      
+      - href: about/index.qmd
+        text: about
       - href: colophon.qmd
         text: colophon
 #      - href: blog/index.qmd
@@ -30,12 +32,11 @@ website:
 #        text: Software
 #      - href: talks/index.qmd
 #        text: Talks
-#      - href: teaching/index.qmd
-#        text: Teaching
-#      - href: about/index.qmd
-#        text: About
-#      - href: contact.qmd
-#        text: Contact
+#       - href: teaching/index.qmd
+
+#         text: teaching
+#       - href: contact.qmd
+#         text: contact
   page-footer:
     left: |
       {{< fa regular copyright >}} Monica Reggiani, 2023<br>

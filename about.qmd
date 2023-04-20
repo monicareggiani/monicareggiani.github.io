@@ -1,0 +1,146 @@
+---
+title: "About me"
+---
+
+```{=html}
+<!--## Bio
+
+The following bio and [**this photo**](/img/RJH_AAS.jpg) may be used in media releases without further permission.
+
+>**Rob J Hyndman** <span style="font-size: 10pt;">FAA FASSA</span> is a Professor of Statistics in the [Department of Econometrics and Business Statistics](http://business.monash.edu/econometrics-and-business-statistics) at [Monash University](https://www.monash.edu), and an elected Fellow of both the [Australian Academy of Science](https://www.science.org.au/profile/rob-hyndman) and the [Academy of Social Sciences in Australia](https://socialsciences.org.au/academy-fellow/?sId=0032v00003JxrvjAAB). He is the author of over 200 research papers and 5 books in statistical science. In 2007, he received the [Moran medal](https://www.science.org.au/past-winners/2007-awardees#moran) from the Australian Academy of Science for his contributions to statistical research, especially in the area of statistical forecasting. In 2021, he received the [Pitman medal](https://www.statsoc.org.au/Pitman-Medal-Recipients) from the Statistical Society of Australia. For over 30 years, Rob has maintained an active consulting practice, assisting hundreds of companies and organizations around the world. He has won awards for his research, teaching, consulting and graduate supervision.
+-->
+```
+::: columns
+::: {.column width="30%"}
+<ul class="fa-ul">
+
+<li><a href="files/eu_cv.pdf"><i class="fa-li fa-regular fa-file-pdf"></i>Curriculum Vitae</a></li>
+
+<li><a href="https://scholar.google.com/citations?user=vamErfkAAAAJ"><i class="fa-li ai ai-google-scholar" style="padding-top:4px;"></i>Google Scholar</a></li>
+
+</ul>
+:::
+
+::: {.column width="30%"}
+<ul class="fa-ul">
+
+<li><a href="https://orcid.org/0000-0002-5029-1892"><i class="fa-li ai ai-orcid" style="padding-top:4px;"></i>ORCID</a></li>
+
+<li><a href="https://www.scopus.com/authid/detail.uri?authorId=56246028800"><i class="fa-li ai ai-scopus" style="padding-top:4px;"></i>Scopus</a></li>
+
+</ul>
+:::
+
+::: {.column width="30%"}
+<ul class="fa-ul">
+
+<li><a href="https://github.com/monicareggiani"><i class="fa-li fa-brands fa-github"></i>GitHub</a></li>
+
+<li><a href="https://www.linkedin.com/in/monica-reggiani-16b4a4166/"><i class="fa-li fa-brands fa-linkedin"></i>LinkedIn</a></li>
+
+</ul>
+:::
+:::
+
+## Address
+
+**Mail:** [Department of Management and Engineering](http://www.gest.unipd.it/en), [University of Padua](https://www.unipd.it/), Stradella San Nicola 3, 36100 Vicenza, IT.
+
+**Office:** Room, Complesso San Nicola, Stradella San Nicola 3, 36100 Vicenza, IT.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d544.2919218052417!2d11.548346095161447!3d45.545630897798105!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477f317e47c5edd3%3A0xe1fa36988068da50!2sUniversit%C3%A0%20degli%20studi%20di%20Padova%20-%20Dipartimento%20di%20tecnica%20e%20gestione%20dei%20sistemi%20industriali%20-%20Complesso%20San%20Nicola!5e0!3m2!1sen!2sit!4v1682001638055!5m2!1sen!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+## Education
+- **Ph.D. in Information Technologies**, 2001.
+  - Department of Information Engineering, University of Parma, IT
+  - Thesis: *Parallel Motion Planning through Potential Fields*
+- **Laurea Degree (MEng) in Electronic Engineering**, 1997.
+  - Faculty of Engineering, University of Parma, IT
+  - Thesis: *Design of a reconfigurable software architecture for real-time control of a robotic manipulator*
+
+
+## Employment history
+
+
+- **Associate Professor** of Computer Engineering, 2018--
+    - Department of Management and Engineering, University of Padua, IT
+    - Research on human-robot collaboration, wearable sensors, and real-time human motion assessment. Part of the research team of the European Project H2020-MSCA-RISE 2019 Marie Skłodowska-Curie MAIA, Models and Methods for an Active Ageing workforce and of the Regional Project POR FESR 2014-2020 REsilient LOgistics And supply chain design (RELOAD).
+    - Teacher for the courses: Embedded System Programming (MSc in Mechatronic Engineering), Laboratory of Industrial Informatics (Bsc in Management Engineering).
+- **Assistant Professor** of Computer Engineering, 2007-2018
+    - Department of Management and Engineering, University of Padua, IT
+    - Research on autonomous robotics and human-machine interface. Part of research team of European Projects FP6-IST-29427 XPERO and ECHO/SUB/2013/661051 ACHELOUS and of national research projects; Unit Coordinator for the European Project IFP7-ICT-2013-10-611695 BioMot.
+    - Teacher for the courses: Introduction to Real-Time Computing and Object Oriented Programming in C++ (PhD School on Mechatronics and Product Innovation Engineering), Generic Programming in C++ (PhD School on Information Technologies, Department of Information Engineering, University of Parma), Embedded System Programming (MSc in Mechatronic Engineering),  Introduction to Computer Science and Introduction to Information Systems (BSc in Management Engineering)
+- **Visiting Researcher** 2014
+    - Griffith Health Institute, Griffith University, Gold Coast, Australia}
+    - Development of open-source software toolbox for real-time estimation of human parameters. Teacher of master classes directed at the postgraduate students and staff of Griffith Health Institute and Mathematical and Physical Sciences. Collaboration with Prof. D.G. Lloyd's Research Group.
+- **Visiting Researcher**, 2012
+    - Department of Neurorehabilitation Engineering, University Medical Center, Göttingen, Germany
+    - Research on real-time inverse kinematics and inversive dynamics for lower limb applications. Collaboration with Prof. D. Farina's Research Group.
+        \ecvitem{}{\ecvhighlight{Business or sector}\quad Research and Education}
+- **Visiting Researcher**, 2010
+    - School of Sport Science, Exercise and Health, University of Western Australia (UWA), Australia
+    - Research on neuromusculoskeletal modelling for the prediction of joint moment for robotics applications. Collaboration with Prof. D.G. Lloyd's Research Group.
+- **Visiting Professor**, 2007
+    - Department of Computer Science, University of Applied Sciences Bonn-Rhein-Sieg, Germany
+    - Research on robotics architectures and robotics learning. Collaboration with Prof. E. Prassler's Research Group. 
+    - Teacher for the course: Robot Architectures, Master in Autonomous Systems. 
+- **Research Fellow**, 2006-2007
+    - Department of Computer Science. University of Verona, IT
+    - Research on motion and task planning for robotics applications within the European Project FP6-IST-29427 XPERO - Learning by Experimentation.
+- **Research Fellow**, 2001-2005
+    - Department of Information Engineering, University of Parma, IT
+    - Research on application of computer technologies for logistics problems and on parallel and distributed processing architectures for robotic and real-time systems.
+- **Graduate Research Assistant**, 1999-2000
+    - Los Alamos National Laboratory (LANL), Los Alamos, New Mexico, USA
+    - Research on new languages for simulation on parallel and concurrent architecture. Member of the Computer Research and Applications Group (CIC-3).
+
+
+
+
+## Editorial Activity
+### Chair - Editorial Board 
+- Award Chair, International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), 2012
+- Associate Editor, IEEE/RSJ International Conference on Intelligent Robots and System (IROS), 2012
+- International Program Co-Chair, International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), 2010
+- Publicity Chair, 14th International Conference on Advanced Robotics (ICAR), 2009
+- Local Chair, International Conference on Simulation, Modeling, and Programming for Autonomous Robots (SIMPAR), 2008
+
+### Program Committee Member
+- International Conference on Neurorehabilitation, 2016
+- International Conference on Intelligent Autonomous Systems (IAS), 2012,14,16,21,22
+- International Conference on Advanced Robotics (ICAR), 2005,07,09,13
+- International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2010
+- Performance Metrics for Intelligent Systems Workshop (PERMIS), 2009
+- Poster Program Committee member for the International Conference on Robotics and Automation (ICRA), 2006
+
+### Workshop Organization
+- 3-day Hands-on Workshop: Neuromusculoskeletal Modeling Summer School on Neurorehabilitation 2013, 2014, 2015, 2016 (with M. Sartori, postdoc Bernstein Center for Computational Neuroscience Universitätsmedizin Göttingen, Germania), 2013-2016
+- Biomechanical simulation of Humans and Bio-inspired Humanoids (BH)2 Workshop International Conference on Simulation, Modeling, and Programming for Autonomous Robots (with A. Seyfarth, professor University of Jena, Germany and  O. von Stryk, professor TU Darmstadt, Germany), 2010
+- Workshop on Concept Learning for Embodied Agents IEEE International Conference on Robotics and Automation, (organizzato con P. Fiorini, professor University of Verona and E. Prassler, professor Fachhochschule Bonn-Rhein-Sieg, Germany), 2007
+- Workshop on Principles and Practice of Software Development in Robotics: crafting modular and interoperable systems IEEE International Conference on Robotics and Automation, (with D. Brugali, associate professore University of Bergamo, Italy), 2005
+- 2004 Meeting on Motion Planning Benchmarks (with A. P. del Pobil, professor Jaume I University, Spain), 2004
+
+
+## Awards and honours
+- Young Author Award, MIM2022, 10th IFAC Conference on Manufacturing Modelling, Management and Control, Nantes, 2022
+<!-- manca il summer school di maretto-->
+- Travel award OpenSim Advanced User Workshop at Stanford (CA), USA, 2015
+- Publication of the Year, Australian and New Zealand Society of Biomechanics (ANZSB), 2015
+- Griffith University Short Term Visiting Research Fellowship Award, 2014
+
+
+## Recent Projects
+- Extended Partnership MICS (Italian PNRR – M4 C2, Invest 1.3 – D.D. 1551.11-10-2022, PE00000004), 2023-
+  MICS, Made in Italy – Circular and Sustainable (Participant)
+- European Project H2020-MSCA-RISE 2019 Marie Skłodowska-Curie, 2020-
+  MAIA, Models and Methods for an Active Ageing workforce: an International Academyb(Participant)
+- Progetto regionale ReLOAD (R.I.R. RIVELO), POR FESR 2014-2020, 2020-2022
+  REsilient LOgistics And supply chain design (RELOAD): progettazione di una supply chain e di una logistica resiliente (Participant)
+- European Project IFP7-ICT-2013-10-611695, 2013-2016
+  BioMot - Smart Wearable Robots with Bioinspired Sensory-Motor Skills (UNIPD Unit Coordinator).
+- Progetto di Ricerca di Ateneo (PRAT-2015), 2015-2017
+  Human-Friendly Smart Workstation for supporting the ageing workforce involvement in industrial environments, CPDA154330 (Participant) 
+- Griffith University Short Term Visiting Research Fellowship Award, 2014
+  CEINMS: supporting the next generation of researchers in neuromusculoskeletal modelling} (Project Submitter)
+- CUP MICS C93C22005280001
+
