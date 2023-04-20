@@ -22,7 +22,7 @@ website:
 #        text: Home
       - href: publications/index.qmd
         text: publications      
-      - href: about/index.qmd
+      - href: about.qmd
         text: about
       - href: colophon.qmd
         text: colophon
