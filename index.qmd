@@ -1,0 +1,30 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    #| - icon: twitter
+    #|   text: Twitter
+    #|   href: https://twitter.com/MarvinSchmittML
+    - icon: github
+      text: Github
+      href: https://github.com/monicareggiani/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/monicareggiani/
+    - icon: envelope
+      text: Email
+      href: "mailto:monica.reggiani@unipd.it"  
+---
+
+::: {#about-block}
+:::
+
+# Work in Progress, be back soon!
+
+I am an Associate Professor at the University of Padua. 
+
+Please feel free to [contact me](mailto:monica.reggiani@unipd.it) if you have any questions or would like to discuss potential projects.
+
+
