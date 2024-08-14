@@ -1,11 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>git@github.com-research:monicareggiani/monicareggiani.github.io.git/about.html</loc>
-    <lastmod>2024-08-13T15:30:13.137Z</lastmod>
+    <loc>https://monicareggiani.github.io/colophon.html</loc>
+    <lastmod>2024-08-14T10:28:59.266Z</lastmod>
   </url>
   <url>
-    <loc>git@github.com-research:monicareggiani/monicareggiani.github.io.git/index.html</loc>
-    <lastmod>2024-08-13T15:30:13.137Z</lastmod>
+    <loc>https://monicareggiani.github.io/now.html</loc>
+    <lastmod>2024-08-14T07:41:57.058Z</lastmod>
+  </url>
+  <url>
+    <loc>https://monicareggiani.github.io/about.html</loc>
+    <lastmod>2024-08-14T14:43:05.203Z</lastmod>
+  </url>
+  <url>
+    <loc>https://monicareggiani.github.io/students.html</loc>
+    <lastmod>2024-08-14T10:28:48.717Z</lastmod>
+  </url>
+  <url>
+    <loc>https://monicareggiani.github.io/projects.html</loc>
+    <lastmod>2024-08-14T07:31:10.428Z</lastmod>
+  </url>
+  <url>
+    <loc>https://monicareggiani.github.io/contact.html</loc>
+    <lastmod>2024-08-14T14:43:25.154Z</lastmod>
+  </url>
+  <url>
+    <loc>https://monicareggiani.github.io/teaching.html</loc>
+    <lastmod>2024-08-14T07:33:21.064Z</lastmod>
+  </url>
+  <url>
+    <loc>https://monicareggiani.github.io/research.html</loc>
+    <lastmod>2024-08-14T07:25:09.185Z</lastmod>
+  </url>
+  <url>
+    <loc>https://monicareggiani.github.io/zz_notes_for_me.html</loc>
+    <lastmod>2024-08-14T11:13:31.578Z</lastmod>
+  </url>
+  <url>
+    <loc>https://monicareggiani.github.io/index.html</loc>
+    <lastmod>2024-08-14T14:47:40.011Z</lastmod>
+  </url>
+  <url>
+    <loc>https://monicareggiani.github.io/publications.html</loc>
+    <lastmod>2024-08-14T14:38:51.096Z</lastmod>
+  </url>
+  <url>
+    <loc>https://monicareggiani.github.io/software.html</loc>
+    <lastmod>2024-08-14T08:08:34.625Z</lastmod>
+  </url>
+  <url>
+    <loc>https://monicareggiani.github.io/cv.html</loc>
+    <lastmod>2024-08-14T07:37:13.373Z</lastmod>
   </url>
 </urlset>
