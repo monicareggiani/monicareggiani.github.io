@@ -1,0 +1,136 @@
+---
+title: "Publications"
+description: Ad here some descriptions
+execute: 
+  echo: false
+  message: false
+  warning: false
+format: html 
+toc: true
+toc-location: left
+---
+
+
+<!-- Remove margin under list items -->
+
+<style>
+ol {
+    margin-bottom: 5px;
+}
+p {
+  margin: 5px 0 0 0;
+}
+</style>
+ 
+```{python setup}
+ 
+import _common 
+# Get pubs from Google sheet
+csv_url_scopus= 'https://docs.google.com/spreadsheets/d/1WSYrtnDG0PtIkMdG69PH11_vFk4fSf3X6TITkuK7v0w/export?format=csv&gid=373027543'
+pubs = _common.get_pubs(csv_url_scopus)
+ 
+# Generate HTML for the specified category
+html_output_articles = _common.make_pub_list(pubs, "Article")
+html_output_conferences = _common.make_pub_list(pubs, "Conference paper")
+
+
+# Generate HTML for working papers and under review
+csv_url_working= 'https://docs.google.com/spreadsheets/d/1WSYrtnDG0PtIkMdG69PH11_vFk4fSf3X6TITkuK7v0w/export?format=csv&gid=2098666656'
+pubs_working = _common.get_pubs(csv_url_working)
+
+html_output_working = _common.make_pub_working(pubs_working)
+
+```
+
+ 
+<center> 
+
+```{python setup}
+from IPython.display import display, HTML
+html_editorial_links = []
+html_editorial_links.append(_common.icon_link(icon = "ai ai-google-scholar", text = "Google Scholar", url  = "https://scholar.google.com/citations?user=Ui4ulbcAAAAJ"))
+html_editorial_links.append(_common.icon_link(icon = "ai ai-orcid", text = "ORCID", url  = "https://orcid.org/0000-0002-5029-1892"))
+html_editorial_links.append(_common.icon_link(icon = "ai ai-researchgate", text = "Research Gate", url = "https://www.researchgate.net/profile/Monica-Reggiani"))
+
+display(HTML(''.join(html_editorial_links)))
+
+```
+
+<!--
+<a href="https://scholar.google.com/citations?user=Ui4ulbcAAAAJ" class="ai ai-google-scholar" target="_blank"> Google Scholar</a> |
+<a href="https://orcid.org/" class="ai ai-orcid" target="_blank"> ORCID</a> |
+<a href="https://www.researchgate.net/profile/Monica-Reggiani" class="ai ai-researchgate" target="_blank"> Research Gate</a>
+-->
+
+<br>
+
+
+</center>
+
+<br>
+
+
+## Papers In Progress & Under Review
+
+```{python setup}
+from IPython.display import display, HTML
+display(HTML(html_output_working))
+```
+
+
+## Refereed (Peer-Reviewed) Journal Articles
+ 
+```{python setup}
+from IPython.display import display, HTML
+display(HTML(html_output_articles))
+```
+
+## Refereed Articles in Conference Proceedings
+```{python setup}
+from IPython.display import display, HTML
+display(HTML(html_output_conferences))
+```
+
+ 
+
+<!--  
+
+## Magazine Publications
+
+`r make_pub_list(pubs, "magazine")`
+
+## Books and Book Chapters
+
+`r make_pub_list(pubs, "book")`
+
+## Magazine Publications
+
+`r make_pub_list(pubs, "magazine")`
+
+## Opinion Editorials
+
+`r make_pub_list(pubs, "oped")`
+
+## Other
+
+`r make_pub_list(pubs, "other")`
+
+## Theses
+
+`r make_pub_list(pubs, "theses")`
+
+## Student Theses
+
+<aside>Theses by students advised by Helveston</aside>
+
+`r make_pub_list(pubs, "theses_student")`
+
+## Software
+
+`r make_pub_list(pubs, "software")`
+
+## Media Coverage
+
+`r make_media_list()`
+
+-->

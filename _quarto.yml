@@ -1,0 +1,56 @@
+project:
+  type: website
+  
+
+website:
+  title: "Monica Reggiani"
+  description: "The personal website of Monica Reggiani"
+  image: images/monica_draw_circle.png
+  site-url: https://monicareggiani.github.io/
+  repo-url: https://githubs.com/monicareggiani/monicareggiani.github.io
+  search:
+    location: navbar
+    type: overlay
+  back-to-top-navigation: true
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "About"
+        href: about.html
+      - text: "Publications"
+        href: publications.html
+      # - text: "Research"
+      #   href: research.html
+      # - text: "Software"
+      #   href: software.html
+      # - text: "Projects"
+      #   href: projects.html
+      # - text: "Teaching"
+      #   href: teaching.html
+      # - text: "Students"
+      #   href: students.html
+      # - text: "CV"
+      #   href: cv.html
+      # - text: "now"
+      #   href: now.html
+      - text: "@"
+        href: contact.html
+
+  page-footer: 
+    center:
+      - text: "© 2024 Monica Reggiani<br>Site made with <i class='bi bi-heart-fill'></i>, <a href='https://github.com/monicareggiani/monicareggiani.github.io' target='_blank'><i class='bi bi-git'></i></a>, and <a href='https://quarto.org/' target='_blank'><img src='https://quarto.org/favicon.png' width=12> quarto</a>"
+
+
+format:
+  html:
+    theme: [solaris, css/custom-theme.scss]
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    link-external-icon: false
+    # This is to include fontawesome and academic icons in the headers:
+    include-in-header: "_includes/header.html"
+
+
+
