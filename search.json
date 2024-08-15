@@ -4,7 +4,7 @@
     "href": "colophon.html",
     "title": "Colophon",
     "section": "",
-    "text": "This website is my virtual playground, hosting resources related to my work (research, editoria, and teaching materials) as well as development projects I have been involved in. It is also home to a bunch of random things.\n\n\n\nThe site is currently hosted by github pages and is based on Quarto.\n\n\n\nThe content, images and clips on this website are (unless otherwise stated) © 2024 Monica Reggiani and are released under a CC-BY-SA license. The stylesheet used on this site was originally inspired by Mark Boulton’s website and is available with some slight modifications as a theme for WikkaWiki. If you wish to use this website’s stylesheet as is, a backlink is appreciated, you are otherwise free to modify it and adapt it to your own project.\n\n\n\nHere’s how to get in touch"
+    "text": "This website is my virtual playground, hosting resources related to my work (research, editoria, and teaching materials) as well as development projects I have been involved in. It is also home to a bunch of random things.\n\n\n\nThe site is currently hosted by github pages and is based on Quarto. Inspiration and code snippets taken from these folks, in random order: Andreas Hanel, Silvia Canelón, Rob J Hynman, Shandiya Balsubramaniam, Marvin Schmitt, and John Paul Helveston.\n\n\n\nThe content, images and clips on this website are (unless otherwise stated) © 2024 Monica Reggiani and are released under a CC-BY-SA license.\n\n\n\nHere’s how to get in touch"
   },
   {
     "objectID": "colophon.html#about",
@@ -18,14 +18,14 @@
     "href": "colophon.html#some-technicalities",
     "title": "Colophon",
     "section": "",
-    "text": "The site is currently hosted by github pages and is based on Quarto."
+    "text": "The site is currently hosted by github pages and is based on Quarto. Inspiration and code snippets taken from these folks, in random order: Andreas Hanel, Silvia Canelón, Rob J Hynman, Shandiya Balsubramaniam, Marvin Schmitt, and John Paul Helveston."
   },
   {
     "objectID": "colophon.html#using-content-from-this-site",
     "href": "colophon.html#using-content-from-this-site",
     "title": "Colophon",
     "section": "",
-    "text": "The content, images and clips on this website are (unless otherwise stated) © 2024 Monica Reggiani and are released under a CC-BY-SA license. The stylesheet used on this site was originally inspired by Mark Boulton’s website and is available with some slight modifications as a theme for WikkaWiki. If you wish to use this website’s stylesheet as is, a backlink is appreciated, you are otherwise free to modify it and adapt it to your own project."
+    "text": "The content, images and clips on this website are (unless otherwise stated) © 2024 Monica Reggiani and are released under a CC-BY-SA license."
   },
   {
     "objectID": "colophon.html#contact",
@@ -88,7 +88,14 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "Work in Progress\n\n\n\n\n Back to top"
+    "text": "Mail Address:  Monica Reggiani Department of Management and Engineering,  University of Padua,  Stradella San Nicola, 3  36100 Vicenza, Italy.\nOffice Location:  Room XXX, Second Floor,  Complesso San Nicola,  University of Padua,  Stradella San Nicola, 3  36100 Vicenza, Italy."
+  },
+  {
+    "objectID": "contact.html#address",
+    "href": "contact.html#address",
+    "title": "Contact",
+    "section": "",
+    "text": "Mail Address:  Monica Reggiani Department of Management and Engineering,  University of Padua,  Stradella San Nicola, 3  36100 Vicenza, Italy.\nOffice Location:  Room XXX, Second Floor,  Complesso San Nicola,  University of Padua,  Stradella San Nicola, 3  36100 Vicenza, Italy."
   },
   {
     "objectID": "teaching.html",
