@@ -37,7 +37,7 @@ about:
 
 ### Welcome to my personal website!
 
-I'm a researcher, engineer, software developer, wife, volunteer, and an Associate Professor at the [Department of Management and Engineering](http://gest.unipd.it) of the [University of Padua](http://www.unipd.it), Italy. 
+I'm a researcher, engineer, software developer, wife, volunteer, and an Associate Professor at the [Department of Management and Engineering](http://www.gest.unipd.it) of the [University of Padua](http://www.unipd.it), Italy. 
  
 I'll always procrastinate updating my web site. Please see my [about](cv.qmd) page for more biographical information and my [publications](publications.qmd) page for more research information. 
 

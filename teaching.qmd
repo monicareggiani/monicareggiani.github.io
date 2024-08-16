@@ -1,0 +1,35 @@
+---
+title: "Teaching"
+description:  I teach undergraduate and graduate courses at the [Department of Management and Engineering](http://www.gest.unipd.it) of the [University of Padua](http://www.unipd.it), Italy. 
+execute: 
+  echo: false
+  message: false
+  warning: false
+format: html 
+toc: true
+toc-location: left
+---
+
+
+## 2024-25
+
+### First Semester
+[Embedded Systems Programming](https://en.didattica.unipd.it/off/2024/LM/IN/IN0529/000ZZ/IN01122661/N0), Second Cycle Degree in Mechatronic Engineering, School of Engineering, University of Padua
+
+### Second Semester
+[Laboratorio di Informatica Industriale (Industrial Inforamtics Laboratory)](https://it.didattica.unipd.it/off/2022/LT/IN/IN2376/000ZZ/INP7078557/N0), First Cycle Degree in Mechatronic Engineering, School of Engineeering, University of Padua.
+
+[Applied Machine Learning](https://en.didattica.unipd.it/off/2023/LM/IN/IN0529/000ZZ/INQ3103361/N0), Second Cycle Degree in Mechatronic Engineering, School of Engineering, University of Padua
+
+
+## Previous Semesters
+
+- 2008/09-2015/16, 2019/20-2023/24 <br/> *Programmazione di Sistemi Embedded (Embedded Systems Programming)* <br/>  Faculty of Engineering, University of Padua, Italy
+- 2019/20-2023/24 <br/> *Laboratorio di Informatica Industriale* <br> Faculty of Engineering, University of Padua, Italy
+- 2009/10-2011/12 <br/> *Fondamenti di Informatica (Introduction to Computer Science)* <br> Faculty of Engineering, University of Padua, Italy
+- 2007/08-2009/10 <br/> *Sistemi Informativi (Introduction to Information Systems)* <br> Faculty of Engineering, University of Padua, Italy
+- Summer 2008 <br/> *Programmazione Generica in C++ (Generic Programming in C++)* <br> Faculty of Engineering, University of Parma, Italy
+- Summer Semester 2007 <br/> *Robot Architectures*, <br> Master in Autonomous Systems, University of Applied Sciences Bonn-Rhein-Sieg, Germany
+- 2006/07 <br/> *Laboratorio di Architetture Software (Introduction to Software Engineer)* <br/> Faculty of Mathematical, Physical and Natural Science , University of Verona, Italy
+- 2002/03-2004/05 <br/> *Robotica (Introduction to Robotics)* <br/> Faculty of Engineering, University of Parma, Italy
+- 2004/05 <br/> *Programmazione orientata agli oggetti in C++ (Object Oriented Programming in C++)* <br> Faculty of Engineering, University of Parma, Italy
