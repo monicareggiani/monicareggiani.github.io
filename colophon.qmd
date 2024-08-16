@@ -1,0 +1,13 @@
+# Colophon
+
+## About
+This website is my virtual playground, hosting resources related to my work ([research](research.qmd), [editoria](publications.qmd), and [teaching materials](teaching.qmd)) as well as development projects I have been involved in. It is also home to a bunch of random things.
+
+## Some technicalities
+The site is currently hosted by github pages and is based on Quarto. Inspiration and code snippets taken from these folks, in random order: [Andreas Hanel](https://www.andreashandel.com/), [Silvia Canelón](https://silviacanelon.com/about/), [Rob J Hynman](https://robjhyndman.com/), [Shandiya Balsubramaniam](https://shandiya.com/), [Marvin Schmitt](https://www.marvinschmitt.com/), and [John Paul Helveston](https://www.jhelvy.com/).
+
+## Using content from this site
+The content, images and clips on this website are (unless otherwise stated) © 2024 Monica Reggiani and are released under a CC-BY-SA license. 
+
+## Contact
+Here's how to [get in touch](contact.qmd)
