@@ -1,0 +1,90 @@
+---
+title: "Projects"
+description: ""
+execute: 
+  echo: false
+  message: false
+  warning: false
+format: html 
+toc: true
+toc-location: left
+---
+
+## Current Projects
+
+
+#### Made in Italy - Circular and Sustainable (Spoke 8)
+- *Overview:* Spoke 8 of MICS project focuses on creating sustainable and resilient digital factories using AI and data-driven approaches. The goal is to enhance human-machine collaboration through advanced digital technolgoies and promote high-performance, inclusive, and sustainable manufacturing systems. For more detailed information, see the [official page](https://www.mics.tech/en/spokes/spoke-8/)<br/>
+- *Years:* 2023 - Ongoing<br/>
+- *Funding:* European Union - Next Generation EU (Italian PNRR – M4 C2, Invest 1.3 – D.D. 1551.11-10-2022, PE00000004) <br/>
+- *Role:* Scientific Collaborator<br/>
+- *Key Technologies:* Human Digital Twins, Collaborative Robotics, Data-driven approaches, Human Centered Design <br/>
+
+#### MAIA, Models and Methods for an Active Ageing workforce: an International Academy 
+- *Overview:* The MAIA project aims to address the challenge of integrating aging workers into future manufacturing systems by advancing research in industrial engineering, robotics, ergonomics, and operations management. Through international collaboration and staff exchanges, the project promotes age-friendly manufacturing designs and solutions. See the [official page](https://maiaproject.eu/) for more information.<br/>
+- *Years:* 2020 - Ongoing<br/>
+- *Funding:* European Project H2020-MSCA-RISE 2019 Marie Skłodowska-Curie <br/> 
+- *Role:* Participant <br/>
+- *Key Technologies:* Human-Machine Interaction, Ergonomics, Collaborative Robotics<br/>
+
+#### Investigating the applicability of exoskeletons in logistics systems: a comprehensive and rigorous multi-disciplinary approach
+- *Overview:* This project aims to investigate the applicability of exoskeletons in logistics systems to address the challenges of a shrinking workforce and increasing demands on elderly workers. It seeks to bridge the gap between laboratory and in-field applications by using non-invasive wearable devices to quantify fatigue and physical effort in real-world scenarios.<br/>
+- *Years:* 2024 - Ongoing <br/>
+- *Funding:* Department strategic investment (SID) Project, Department of Management and Engineering, Univ. of Padua <br/>
+- *Role:* Participant <br/>
+- *Key Technologies:* Exoskeleton, Wearable Sensors, Data-driven Approaches, Biomechanical Data, Ergonomics, Human-Centered Design <br/>
+
+
+#### anticiPatoRy bEhaviors for Safe and Effective humaN-robot CoopEration (PRESENCE)
+- *Overview:* This project focuses on enhancing safe and effective human-robot collaboration by anticipating human intentions during shared tasks. By utilizing multimodal data fusion, machine learning, and behavior trees, the project aims to create a more flexible and reactive collaboration environment, improving robots’ ability to predict and adapt to human actions both at macro and micro levels.<br/>
+- *Years:* 2022 - Ongoing <br/>
+- *Funding:* Departmental strategic investment (SID) Project,  Department of Management and Engineering, Univ. of Padua <br/>
+- *Role:* Participant <br/>
+- *Key Technologies:* Multimodal Data FUsion, Deep Learning, RGD-D Cameras, Inertial Motion Capture Systems<br/>
+
+## Past Projects
+
+#### REsilient LOgistics And supply chain design (RELOAD): progettazione di una supply chain e di una logistica resiliente*   
+- *Overview:* The [RELOAD](https://www.ri-velo.it/progetto-reload/) project addresses the critical role of logistics, transportation, and supply chain management highlighted by the COVID-19 pandemic. The project aims to digitize the entire supply chain to enhance flexibility, visibility, transparency, and efficiency, aligning with environmental, social, and economic sustainability goals. RELOAD focuses on mitigating supply chain risks, creating regional production and distribution networks, and adopting “just in case” inventory management principles to ensure continuity during adverse events. <br/>
+- *Years:* 2020-23<br/>
+- *Funding:* Regional Project ReLOAD (R.I.R. RIVELO), POR FESR 2014-2020 <br/> 
+- *Role:* Participant<br/>
+- *Key Technologies:* Material Handling & Warehousing, Transportation Management, Supply Chain traceability<br/>
+
+#### BioMot - Smart Wearable Robots with Bioinspired Sensory-Motor Skills 
+- *Overview:* This project focuses on advancing wearable robotic exoskeletons by leveraging bioinspired sensory-motor control and cognitive capabilities. The goal is to create exoskeletons that can adapt in real-time to the user’s movements, enhancing energy efficiency and cooperative performance in tasks like gait rehabilitation and everyday activities. For more information see [here](https://neuralrehabilitation.org/projects/bioMot/index.html)<br/>
+- *Years:* 2013-2016 <br/> 
+- *Funding:* European Project IFP7-ICT-2013-10-611695 <br/> 
+- *Role:* UNIPD Unit Coordinator<br/>
+- *Key Technologies:* Exoskeletons, Neuromuscoloskeletal Modeling, Human-Robot Interaction <br/>
+
+#### Planar haptic device and virtual reality tools for hand and finger rehabilitation
+- *Years:* 2012-2016<br/>
+- *Funding:* Progetto Ricerca Finalizzata 2010, Ministero della Salute, RF–2010–2303748<br/> 
+- *Role:* Participant<br/>
+
+#### ACHELOUS - Action of Contrast to Hydraulic Emergency in Local Urban Site
+- *Years:* 2014-2015<br/>
+- *Funding:* European Project (ECHO/SUB/2013/661051)<br/> 
+- *Role:* Participant to the UNIPD Subcontractor Unit <br/>
+
+#### CEINMS: supporting the next generation of researchers in neuromusculoskeletal modelling
+- *Years:* 2014<br/>
+- *Funding:* Griffith University Short Term Visiting Research Fellowship Award<br/> 
+- *Role:* Project Proposer <br/>
+
+## Early Career Projects 
+
+- *XPERO - Learning by Experimentation* (2006-2007), European Project FP6-IST-29427, *Role:*  Participant while PostDoc at the University of Verona (Research Group: Prof. Paolo Fiorini)
+  
+- *RoboCare - Sistemi multi-agenti con componenti fisse e robotiche mobili intelligenti* (2003-2006), Progetto MIUR, Legge 449/97*, *Role:* Participant while PostDoc at the University of Parma (Research Group: Prof. Stefano Caselli)
+
+- *Motion Planning Benchmarks* (2003-2004), Special Study Funded by the European Robotics Research Network, *Role:* Project Proposer with Prof. A.P. del Pobil, Jaume I University - Spain, while PostDoc at the University of Parma (Research Group: Prof. Stefano Caselli)
+
+- *ISIDE - Sviluppo di sistemi di elaborazione reattivi ed affidabili per applicazioni industriali* (2001-2002), PRIN - Progetto di rilevante interesse nazionale cofinanziato dal MURST, *Role:* Participant while PostDoc at the University of Parma (Research Group: Gianni Conte)   
+
+- *Run-Time techniques for parallel computing* (2000-2001), Progetto Giovani Ricercatori, University of Parma, *Role:* Project Proposer while PostDoc at the University of Parma (Research Group: Prof. Gianni Conte)
+
+- *MOSAICO - Metodologie e Strumenti di Progetto di Sistemi ad Alte Prestazioni per Applicazioni Distribuite* (1998-2000), Progetto MURST, *Role:* Project Participant while PhD Student at the University of Parma (Supervisor: Prof. Stefano Caselli, Prof. Gianni Conte)
+
+- *SIRO - Sviluppo di sistemi per la simulazione e la restituzione in grafica 3D e realtà virtuale di robot autonomi e di sistemi flessibili per l'automazione industriale* (1997-2002), Progetto ENEA-MURST, Legge 95/95, *Role:* Project Participant while PhD Student at the University of Parma (Supervisor: Prof. Stefano Caselli, Prof. Gianni Conte)

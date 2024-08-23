@@ -24,8 +24,8 @@ website:
       #   href: research.html
       # - text: "Software"
       #   href: software.html
-      # - text: "Projects"
-      #   href: projects.html
+      - text: "Projects"
+        href: projects.html
       - text: "Teaching"
         href: teaching.html
       # - text: "Students"
